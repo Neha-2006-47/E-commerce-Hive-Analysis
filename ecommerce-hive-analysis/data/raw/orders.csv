@@ -1,0 +1,104 @@
+order_id,customer_id,order_date,category,product,quantity,unit_price,discount_pct,payment_method,city,status
+O0001,C033,2026-10-01,Home & Kitchen,Bedsheet Set,1,1199,15,Debit Card,Delhi,Delivered
+O0002,C042,2026-10-01,Electronics,Power Bank,1,1299,0,Cash on Delivery,Kolkata,Delivered
+O0003,C045,2026-10-02,Beauty,Hair Dryer,3,1599,5,Credit Card,Chennai,Delivered
+O0004,C019,2026-10-02,Books,Novel Collection,1,799,0,UPI,Delhi,Delivered
+O0005,C028,2026-10-04,Home & Kitchen,Bedsheet Set,1,1199,0,Cash on Delivery,Chennai,Delivered
+O0006,C027,2026-10-05,Electronics,Bluetooth Speaker,1,3299,0,UPI,Delhi,Delivered
+O0007,C016,2026-10-06,Fashion,Running Shoes,1,2799,0,UPI,Bengaluru,Delivered
+O0008,C043,2026-10-06,Electronics,Power Bank,1,1299,5,Debit Card,Delhi,Returned
+O0009,C038,2026-10-06,Fashion,Denim Jacket,1,2199,10,UPI,Mumbai,Delivered
+O0010,C038,2026-10-07,Fashion,Backpack,1,1499,0,UPI,Hyderabad,Delivered
+O0010,C038,2026-10-07,Fashion,Backpack,1,1499,0,UPI,Hyderabad,Delivered
+O0011,C025,2026-10-07,Home & Kitchen,Mixer Grinder,1,3999,0,Cash on Delivery,Bengaluru,Delivered
+O0012,C021,2026-10-07,Fashion,Running Shoes,1,2799,10,Debit Card,Chennai,Cancelled
+O0013,C011,2026-10-08,Fashion,Backpack,1,1499,20,UPI,Chennai,Delivered
+O0014,C036,2026-10-08,Fashion,Denim Jacket,1,2199,0,Credit Card,Bengaluru,Returned
+O0015,C042,2026-10-08,Electronics,Wireless Earbuds,1,2499,20,UPI,Mumbai,Cancelled
+O0016,C009,2026-10-08,Electronics,Smart Watch,1,5999,10,UPI,Delhi,Delivered
+O0017,C020,2026-10-09,Fashion,Backpack,2,1499,10,UPI,Bengaluru,Delivered
+O0018,C021,2026-10-10,Beauty,Hair Dryer,1,1599,0,Credit Card,Chennai,Delivered
+O0019,C014,2026-10-10,Home & Kitchen,Bedsheet Set,2,1199,20,UPI,Kolkata,Cancelled
+O0020,C043,2026-10-14,Home & Kitchen,Cookware Set,1,2899,20,UPI,Bengaluru,Cancelled
+O0021,C018,2026-10-15,Fashion,Denim Jacket,1,2199,15,Credit Card,Chennai,Delivered
+O0022,C007,2026-10-15,Fashion,Cotton Kurta,1,899,0,Cash on Delivery,Bengaluru,Delivered
+O0023,C012,2026-10-15,Electronics,Wireless Earbuds,2,2499,15,Debit Card,Bengaluru,Delivered
+O0024,C011,2026-10-16,Home & Kitchen,Air Fryer,1,6499,5,UPI,Bengaluru,Delivered
+O0025,C004,2026-10-17,Beauty,Hair Dryer,1,1599,0,UPI,Bengaluru,Delivered
+O0026,C039,2026-10-17,Home & Kitchen,Bedsheet Set,1,1199,10,Debit Card,Mumbai,Delivered
+O0027,C044,2026-10-17,Fashion,Denim Jacket,1,2199,10,Cash on Delivery,Mumbai,Cancelled
+O0028,C023,2026-10-19,Home & Kitchen,Bedsheet Set,1,1199,20,UPI,Mumbai,Cancelled
+O0029,C008,2026-10-19,Fashion,Cotton Kurta,1,899,20,UPI,Hyderabad,Delivered
+O0030,C008,2026-10-19,Electronics,Power Bank,1,1299,0,UPI,Bengaluru,Delivered
+O0031,C009,2026-10-20,Home & Kitchen,Bedsheet Set,1,1199,10,UPI,Hyderabad,Delivered
+O0032,C035,2026-10-21,Fashion,Denim Jacket,2,2199,0,UPI,Mumbai,Delivered
+O0033,C002,2026-10-21,Home & Kitchen,Bedsheet Set,2,1199,0,UPI,Chennai,Delivered
+O0034,C006,2026-10-22,Beauty,Face Serum,3,899,10,Cash on Delivery,Chennai,Delivered
+O0035,C041,2026-10-23,Beauty,Perfume,2,1999,5,Credit Card,Mumbai,Delivered
+O0036,C004,2026-10-23,Books,Novel Collection,3,799,10,Net Banking,Mumbai,Cancelled
+O0037,C015,2026-10-24,Beauty,Hair Dryer,2,1599,5,Credit Card,Hyderabad,Cancelled
+O0038,C031,2026-10-24,Fashion,Backpack,1,1499,10,Cash on Delivery,Mumbai,Delivered
+O0039,C023,2026-10-25,Electronics,Bluetooth Speaker,1,3299,0,Cash on Delivery,Delhi,Delivered
+O0040,C024,2026-10-26,Books,Novel Collection,1,799,5,Credit Card,Hyderabad,Delivered
+O0201,C023,2026-10-25,Electronics,Bluetooth Speaker,1,3299,0,Cash on Delivery,,Delivered
+O0041,C045,2026-10-26,Electronics,Wireless Earbuds,1,2499,20,Debit Card,Chennai,Returned
+O0042,C006,2026-10-26,Fashion,Denim Jacket,3,2199,0,UPI,Hyderabad,Delivered
+O0043,C019,2026-10-27,Fashion,Denim Jacket,1,2199,5,Credit Card,Hyderabad,Returned
+O0044,C031,2026-10-27,Electronics,Wireless Earbuds,2,2499,15,Net Banking,Hyderabad,Delivered
+O0045,C002,2026-10-28,Books,Novel Collection,1,799,10,UPI,Chennai,Delivered
+O0046,C042,2026-10-28,Beauty,Perfume,1,1999,15,Cash on Delivery,Delhi,Delivered
+O0047,C009,2026-10-28,Fashion,Denim Jacket,1,2199,0,UPI,Hyderabad,Delivered
+O0048,C020,2026-10-29,Books,Data Science Handbook,1,699,10,Debit Card,Hyderabad,Cancelled
+O0049,C030,2026-10-29,Electronics,Smart Watch,1,5999,15,Cash on Delivery,Hyderabad,Delivered
+O0050,C043,2026-10-30,Beauty,Hair Dryer,2,1599,5,UPI,Hyderabad,Delivered
+O0051,C013,2026-10-30,Fashion,Backpack,1,1499,0,Cash on Delivery,Hyderabad,Delivered
+O0052,C038,2026-10-30,Fashion,Cotton Kurta,1,899,20,Credit Card,Bengaluru,Delivered
+O0053,C008,2026-10-31,Home & Kitchen,Mixer Grinder,1,3999,5,UPI,Delhi,Delivered
+O0054,C036,2026-10-31,Electronics,Power Bank,1,1299,0,Cash on Delivery,Hyderabad,Delivered
+O0055,C022,2026-10-31,Home & Kitchen,Cookware Set,1,2899,15,Debit Card,Hyderabad,Delivered
+O0056,C043,2026-10-31,Beauty,Perfume,2,1999,20,Cash on Delivery,Chennai,Delivered
+O0057,C012,2026-11-01,Home & Kitchen,Air Fryer,1,6499,15,UPI,Chennai,Delivered
+O0058,C031,2026-11-01,Fashion,Backpack,2,1499,20,Cash on Delivery,Chennai,Delivered
+O0059,C018,2026-11-01,Books,Novel Collection,1,799,20,UPI,Delhi,Delivered
+O0060,C013,2026-11-01,Fashion,Cotton Kurta,1,899,15,Credit Card,Bengaluru,Delivered
+O0061,C039,2026-11-02,Fashion,Denim Jacket,3,2199,0,Debit Card,Mumbai,Delivered
+O0062,C027,2026-11-02,Fashion,Denim Jacket,1,2199,5,UPI,Chennai,Delivered
+O0063,C022,2026-11-02,Electronics,Bluetooth Speaker,1,3299,5,UPI,Mumbai,Delivered
+O0064,C009,2026-11-02,Beauty,Hair Dryer,1,1599,10,UPI,Delhi,Delivered
+O0065,C026,2026-11-02,Books,Data Science Handbook,1,699,10,UPI,Mumbai,Delivered
+O0066,C033,2026-11-03,Beauty,Perfume,2,1999,15,Debit Card,Delhi,Delivered
+O0067,C039,2026-11-03,Fashion,Running Shoes,2,2799,10,UPI,Hyderabad,Delivered
+O0068,C034,2026-11-03,Electronics,Smart Watch,1,5999,20,Credit Card,Hyderabad,Delivered
+O0069,C014,2026-11-04,Home & Kitchen,Mixer Grinder,1,3999,0,Credit Card,Delhi,Delivered
+O0070,C032,2026-11-04,Electronics,Power Bank,2,1299,15,UPI,Mumbai,Cancelled
+O0202,C014,2026-11-04,Home & Kitchen,Mixer Grinder,0,3999,0,Credit Card,Delhi,Delivered
+O0071,C035,2026-11-05,Fashion,Backpack,1,1499,15,UPI,Mumbai,Delivered
+O0072,C043,2026-11-05,Electronics,Smart Watch,1,5999,20,Credit Card,Delhi,Cancelled
+O0073,C009,2026-11-05,Fashion,Cotton Kurta,3,899,0,UPI,Chennai,Delivered
+O0074,C012,2026-11-05,Fashion,Denim Jacket,1,2199,20,Debit Card,Hyderabad,Delivered
+O0075,C024,2026-11-06,Beauty,Face Serum,1,899,10,Cash on Delivery,Bengaluru,Delivered
+O0076,C003,2026-11-06,Fashion,Cotton Kurta,1,899,10,Credit Card,Bengaluru,Delivered
+O0077,C022,2026-11-06,Books,Novel Collection,2,799,5,Cash on Delivery,Bengaluru,Delivered
+O0078,C011,2026-11-06,Books,Python Cookbook,1,549,0,UPI,Mumbai,Delivered
+O0079,C024,2026-11-07,Fashion,Backpack,2,1499,10,Debit Card,Kolkata,Delivered
+O0080,C013,2026-11-07,Fashion,Backpack,1,1499,0,UPI,Bengaluru,Delivered
+O0081,C042,2026-11-08,Home & Kitchen,Mixer Grinder,1,3999,0,Credit Card,Delhi,Returned
+O0082,C018,2026-11-08,Fashion,Denim Jacket,1,2199,15,UPI,Hyderabad,Delivered
+O0083,C009,2026-11-09,Home & Kitchen,Bedsheet Set,2,1199,10,UPI,Bengaluru,Delivered
+O0084,C004,2026-11-09,Fashion,Backpack,1,1499,10,Net Banking,Mumbai,Delivered
+O0085,C035,2026-11-09,Electronics,Wireless Earbuds,1,2499,5,Cash on Delivery,Chennai,Delivered
+O0086,C038,2026-11-10,Electronics,Power Bank,1,1299,0,UPI,Chennai,Delivered
+O0087,C002,2026-11-10,Electronics,Bluetooth Speaker,1,3299,10,UPI,Hyderabad,Delivered
+O0088,C002,2026-11-11,Fashion,Denim Jacket,1,2199,5,Net Banking,Mumbai,Delivered
+O0089,C022,2026-11-11,Home & Kitchen,Air Fryer,1,6499,20,Debit Card,Hyderabad,Delivered
+O0090,C016,2026-11-12,Fashion,Backpack,1,1499,10,Credit Card,Delhi,Delivered
+O0091,C008,2026-11-13,Fashion,Denim Jacket,1,2199,20,Debit Card,Mumbai,Delivered
+O0092,C034,2026-11-13,Electronics,Smart Watch,1,5999,0,Credit Card,Bengaluru,Delivered
+O0093,C038,2026-11-13,Home & Kitchen,Bedsheet Set,2,1199,20,UPI,Mumbai,Delivered
+O0094,C014,2026-11-14,Beauty,Face Serum,1,899,20,Debit Card,Chennai,Delivered
+O0095,C026,2026-11-15,Books,Data Science Handbook,2,699,10,Net Banking,Hyderabad,Delivered
+O0096,C006,2026-11-15,Books,Data Science Handbook,1,699,5,UPI,Kolkata,Delivered
+O0097,C043,2026-11-15,Home & Kitchen,Air Fryer,1,6499,10,UPI,Kolkata,Returned
+O0098,C013,2026-11-15,Home & Kitchen,Air Fryer,1,6499,20,Debit Card,Kolkata,Delivered
+O0099,C019,2026-11-15,Electronics,Wireless Earbuds,1,2499,0,Debit Card,Bengaluru,Returned
+O0100,C038,2026-11-15,Electronics,Smart Watch,1,5999,10,Credit Card,Chennai,Delivered

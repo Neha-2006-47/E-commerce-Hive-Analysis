@@ -1,0 +1,14 @@
+# Apache Hive 4 (HiveServer2 with embedded Derby metastore) - no Hadoop install needed.
+services:
+  hive:
+    image: apache/hive:4.0.0
+    container_name: hive4
+    environment:
+      SERVICE_NAME: hiveserver2
+    ports:
+      - "10000:10000"   # HiveServer2 (JDBC / Beeline)
+      - "10002:10002"   # HiveServer2 web UI  -> http://localhost:10002
+    volumes:
+      - ./data/raw:/data/orders_raw:ro   # input CSV (external table location)
+      - ./hql:/hql:ro                    # HiveQL scripts
+      - ./output:/output                 # exported result CSVs
